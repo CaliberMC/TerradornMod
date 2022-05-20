@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "terradornmod:silver_block",
+    "terradornmod:silver_ore",
+    "terradornmod:deepslate_silver_ore",
+    "terradornmod:nether_silver_ore",
+    "terradornmod:raw_silver_ore"
+  ]
+}

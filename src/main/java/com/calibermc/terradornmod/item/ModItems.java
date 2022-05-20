@@ -11,6 +11,8 @@ public class ModItems {
     public static final Item SILVER_INGOT = registerItem("silver_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.TERRADORN)));
 
+    public static final Item SILVER_NUGGET = registerItem("silver_nugget",
+            new Item(new FabricItemSettings().group(ModItemGroup.TERRADORN)));
 
 
 

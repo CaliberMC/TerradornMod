@@ -15,12 +15,24 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
 
+    //METALS
+
     public static final Block SILVER_BLOCK = registerBlock("silver_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.TERRADORN);
 
     public static final Block SILVER_ORE = registerBlock("silver_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroup.TERRADORN);
 
+    public static final Block DEEPSLATE_SILVER_ORE = registerBlock("deepslate_silver_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).requiresTool()), ModItemGroup.TERRADORN);
+
+    public static final Block NETHERRACK_SILVER_ORE = registerBlock("nether_silver_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).requiresTool()), ModItemGroup.TERRADORN);
+
+    public static final Block RAW_SILVER_BLOCK = registerBlock("raw_silver_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.TERRADORN);
+
+    //GEMS
 
 
 

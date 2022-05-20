@@ -2,8 +2,12 @@
   "itemGroup.terradornmod.terradorn" : "Terradorn",
 
   "item.terradornmod.silver_ingot": "Silver Ingot",
+  "item.terradornmod.silver_nugget": "Silver Nugget",
 
 
   "block.terradornmod.silver_block": "Silver Block",
-  "block.terradornmod.silver_ore": "Silver Ore"
+  "block.terradornmod.silver_ore": "Silver Ore",
+  "block.terradornmod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.terradornmod.nether_silver_ore": "Nether Silver Ore",
+  "block.terradornmod.raw_silver_block": "Raw Silver Block"
 }

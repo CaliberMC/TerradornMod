@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "silver_ingot",
+  "ingredient": {
+    "item": "terradornmod:silver_ore"
+  },
+  "result": "terradornmod:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

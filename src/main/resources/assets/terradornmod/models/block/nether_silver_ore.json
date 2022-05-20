@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terradornmod:block/nether_silver_ore"
+  }
+}
