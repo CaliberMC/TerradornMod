@@ -16,7 +16,6 @@ import net.minecraft.util.registry.Registry;
 public class ModBlocks {
 
     //METALS
-
     public static final Block SILVER_BLOCK = registerBlock("silver_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.TERRADORN);
 
@@ -33,6 +32,37 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ModItemGroup.TERRADORN);
 
     //GEMS
+    public static final Block CITRINE_BLOCK = registerBlock("citrine_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(1.5f).resistance(1.5f)), ModItemGroup.TERRADORN);
+    public static final Block BUDDING_CITRINE_BLOCK = registerBlock("budding_citrine_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(1.5f).resistance(1.5f)), ModItemGroup.TERRADORN);
+    public static final Block CITRINE_CLUSTER_BLOCK = registerBlock("citrine_cluster_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(1.5f).resistance(1.5f)), ModItemGroup.TERRADORN);
+
+    public static final Block RUBY_BLOCK = registerBlock("ruby_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(5f).resistance(6f)), ModItemGroup.TERRADORN);
+    public static final Block RUBY_ORE = registerBlock("ruby_ore",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(3f).resistance(3f)), ModItemGroup.TERRADORN);
+    public static final Block DEEPSLATE_RUBY_ORE = registerBlock("deepslate_ruby_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).requiresTool().hardness(4.5f).resistance(4.5f)), ModItemGroup.TERRADORN);
+
+    public static final Block SAPPHIRE_BLOCK = registerBlock("sapphire_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(5f).resistance(6f)), ModItemGroup.TERRADORN);
+    public static final Block SAPPHIRE_ORE = registerBlock("sapphire_ore",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(3f).resistance(3f)), ModItemGroup.TERRADORN);
+    public static final Block DEEPSLATE_SAPPHIRE_ORE = registerBlock("deepslate_sapphire_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).requiresTool().hardness(4.5f).resistance(4.5f)), ModItemGroup.TERRADORN);
+
+    public static final Block TOPAZ_BLOCK = registerBlock("topaz_block",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(5f).resistance(6f)), ModItemGroup.TERRADORN);
+    public static final Block TOPAZ_ORE = registerBlock("topaz_ore",
+            new Block(FabricBlockSettings.of(Material.METAL).requiresTool().hardness(3f).resistance(3f)), ModItemGroup.TERRADORN);
+    public static final Block DEEPSLATE_TOPAZ_ORE = registerBlock("deepslate_topaz_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).requiresTool().hardness(4.5f).resistance(4.5f)), ModItemGroup.TERRADORN);
+
+
+
+
 
 
 

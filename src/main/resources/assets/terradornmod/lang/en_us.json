@@ -4,10 +4,33 @@
   "item.terradornmod.silver_ingot": "Silver Ingot",
   "item.terradornmod.silver_nugget": "Silver Nugget",
 
+  "item.terradornmod.citrine_shard": "Citrine Shard",
+
+
+
+
+
 
   "block.terradornmod.silver_block": "Silver Block",
   "block.terradornmod.silver_ore": "Silver Ore",
   "block.terradornmod.deepslate_silver_ore": "Deepslate Silver Ore",
   "block.terradornmod.nether_silver_ore": "Nether Silver Ore",
-  "block.terradornmod.raw_silver_block": "Raw Silver Block"
+  "block.terradornmod.raw_silver_block": "Raw Silver Block",
+
+  "block.terradornmod.citrine_block": "Citrine Block",
+  "block.terradornmod.budding_citrine_block": "Budding Citrine Block",
+  "block.terradornmod.citrine_cluster_block": "Citrine Cluster",
+
+  "block.terradornmod.ruby_block": "Ruby Block",
+  "block.terradornmod.ruby_ore": "Ruby Ore",
+  "block.terradornmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "block.terradornmod.sapphire_block": "Sapphire Block",
+  "block.terradornmod.sapphire_ore": "Sapphire Ore",
+  "block.terradornmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "block.terradornmod.topaz_block": "Topaz Block",
+  "block.terradornmod.topaz_ore": "Topaz Ore",
+  "block.terradornmod.deepslate_topaz_ore": "Deepslate Topaz Ore"
+
 }

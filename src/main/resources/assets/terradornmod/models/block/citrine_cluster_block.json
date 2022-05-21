@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terradornmod:block/citrine_cluster_block"
+  }
+}
