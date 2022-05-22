@@ -5,6 +5,18 @@
     "terradornmod:silver_ore",
     "terradornmod:deepslate_silver_ore",
     "terradornmod:nether_silver_ore",
-    "terradornmod:raw_silver_ore"
+    "terradornmod:raw_silver_ore",
+
+    "terradornmod:ruby_block",
+    "terradornmod:ruby_ore",
+    "terradornmod:deepslate_ruby_ore",
+
+    "terradornmod:sapphire_block",
+    "terradornmod:sapphire_ore",
+    "terradornmod:deepslate_sapphire_ore",
+
+    "terradornmod:topaz_block",
+    "terradornmod:topaz_ore",
+    "terradornmod:deepslate_topaz_ore"
   ]
 }

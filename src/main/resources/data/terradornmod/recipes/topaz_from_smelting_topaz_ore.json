@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "emerald",
+  "ingredient": {
+    "item": "terradornmod:topaz_ore"
+  },
+  "result": "terradornmod:topaz",
+  "experience": 1.0,
+  "cookingtime": 200
+}

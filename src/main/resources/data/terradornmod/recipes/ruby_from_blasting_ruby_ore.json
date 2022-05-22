@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "emerald",
+  "ingredient": {
+    "item": "terradornmod:ruby_ore"
+  },
+  "result": "terradornmod:ruby",
+  "experience": 1.0,
+  "cookingtime": 100
+}

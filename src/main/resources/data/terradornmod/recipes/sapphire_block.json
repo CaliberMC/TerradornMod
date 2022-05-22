@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "terradornmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "terradornmod:sapphire_block"
+  }
+}
